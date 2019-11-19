@@ -1,0 +1,34 @@
+[
+	{
+		"id": "1",
+		"name": "Basic Training",
+		"title": "Basic Training",
+		"subtitle": "Training path for basic training",
+		"link": "Annata Training\\1.0\\en-us\\BpmFlow_Template.html",
+		"level": "100"
+	},
+	{
+		"id": "2",
+		"name": "Basic Technical Training",
+		"title": "Basic Technical Training",
+		"subtitle": "Basic Technical Training Subtitle",
+		"link": "Annata Training\\1.0\\en-us\\BpmFlow_Template.html",
+		"level": "101"
+	},
+	{
+		"id": "3",
+		"name": "Basic Training",
+		"title": "D365 For Finance and Operations",
+		"subtitle": "Functional Training for F&O",
+		"link": "Annata Training\\1.0\\en-us\\BpmFlow_Template.html",
+		"level": "102"
+	},
+	{
+		"id": "4",
+		"name": "Basic Training",
+		"title": "Annata 365 for Finance and Operations",
+		"subtitle": "Functional Training for Annata 365 F&O",
+		"link": "Annata Training\\1.0\\en-us\\BpmFlow_Template.html",
+		"level": "103"
+	}
+]
