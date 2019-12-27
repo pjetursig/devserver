@@ -35,16 +35,16 @@
 	],
 	"msauto_devicetypes":[
 	{
-		msauto_name: "Vehicle",
-		msauto_devicetypeid: "60379614-df98-e911-a81f-000d3a43d329"
+		"msauto_name": "Vehicle",
+		"msauto_devicetypeid": "60379614-df98-e911-a81f-000d3a43d329"
 	},
 	{
-		msauto_name: "Utility Vehicle",
-		msauto_devicetypeid: "fd48d060-6e99-e911-a81f-000d3a43de3c"
+		"msauto_name": "Utility Vehicle",
+		"msauto_devicetypeid": "fd48d060-6e99-e911-a81f-000d3a43de3c"
 	},
 	{
-		msauto_name: "Machinery",
-		msauto_devicetypeid: "511450b5-a2ba-e911-a826-000d3aba031d"
+		"msauto_name": "Machinery",
+		"msauto_devicetypeid": "511450b5-a2ba-e911-a826-000d3aba031d"
 	}
 	]
 }
