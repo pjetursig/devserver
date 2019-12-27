@@ -32,90 +32,20 @@
 		"link": "Annata Training\\1.0\\en-us\\BpmFlow_Template.html",
 		"level": "103"
 	}
-],
+	],
 	"msauto_devicetypes":[
-		{
-_owningbusinessunit_value: "fbd9c502-53b6-e911-a851-000d3ab24a78",
-statecode: 0,
-statuscode: 1,
-importsequencenumber: 1,
-_createdby_value: "1d2dc3cf-ce76-40c9-8d16-82e9058e01d0",
-_ownerid_value: "1d2dc3cf-ce76-40c9-8d16-82e9058e01d0",
-_modifiedby_value: "1d2dc3cf-ce76-40c9-8d16-82e9058e01d0",
-msauto_name: "Vehicle",
-msauto_devicetypeid: "60379614-df98-e911-a81f-000d3a43d329",
-_owninguser_value: "1d2dc3cf-ce76-40c9-8d16-82e9058e01d0",
-createdon: "2019-08-09T13:58:46Z",
-versionnumber: 1813121,
-modifiedon: "2019-08-09T13:58:46Z",
-_createdonbehalfby_value: null,
-entityimage_timestamp: null,
-utcconversiontimezonecode: null,
-entityimage: null,
-overriddencreatedon: null,
-_owningteam_value: null,
-entityimage_url: null,
-timezoneruleversionnumber: null,
-msauto_code: null,
-entityimageid: null,
-_modifiedonbehalfby_value: null,
-msauto_description: null
-},
-{
-_owningbusinessunit_value: "fbd9c502-53b6-e911-a851-000d3ab24a78",
-statecode: 0,
-statuscode: 1,
-importsequencenumber: null,
-_createdby_value: "1d2dc3cf-ce76-40c9-8d16-82e9058e01d0",
-_ownerid_value: "1d2dc3cf-ce76-40c9-8d16-82e9058e01d0",
-_modifiedby_value: "1d2dc3cf-ce76-40c9-8d16-82e9058e01d0",
-msauto_name: "Utility Vehicle",
-msauto_devicetypeid: "fd48d060-6e99-e911-a81f-000d3a43de3c",
-_owninguser_value: "1d2dc3cf-ce76-40c9-8d16-82e9058e01d0",
-createdon: "2019-08-09T13:58:46Z",
-versionnumber: 1813120,
-modifiedon: "2019-08-09T13:58:46Z",
-_createdonbehalfby_value: null,
-entityimage_timestamp: null,
-utcconversiontimezonecode: null,
-entityimage: null,
-overriddencreatedon: null,
-_owningteam_value: null,
-entityimage_url: null,
-timezoneruleversionnumber: null,
-msauto_code: null,
-entityimageid: null,
-_modifiedonbehalfby_value: null,
-msauto_description: "Utility vehicle"
-},
-{
-_owningbusinessunit_value: "fbd9c502-53b6-e911-a851-000d3ab24a78",
-statecode: 0,
-statuscode: 1,
-importsequencenumber: 1,
-_createdby_value: "1d2dc3cf-ce76-40c9-8d16-82e9058e01d0",
-_ownerid_value: "1d2dc3cf-ce76-40c9-8d16-82e9058e01d0",
-_modifiedby_value: "1d2dc3cf-ce76-40c9-8d16-82e9058e01d0",
-msauto_name: "Vehicle",
-msauto_devicetypeid: "511450b5-a2ba-e911-a826-000d3aba031d",
-_owninguser_value: "1d2dc3cf-ce76-40c9-8d16-82e9058e01d0",
-createdon: "2019-08-09T12:39:36Z",
-versionnumber: 1805232,
-modifiedon: "2019-08-09T12:39:36Z",
-_createdonbehalfby_value: null,
-entityimage_timestamp: null,
-utcconversiontimezonecode: null,
-entityimage: null,
-overriddencreatedon: null,
-_owningteam_value: null,
-entityimage_url: null,
-timezoneruleversionnumber: null,
-msauto_code: null,
-entityimageid: null,
-_modifiedonbehalfby_value: null,
-msauto_description: null
-}
-		]
-	
+	{
+		msauto_name: "Vehicle",
+		msauto_devicetypeid: "60379614-df98-e911-a81f-000d3a43d329"
+	},
+	{
+		msauto_name: "Utility Vehicle",
+		msauto_devicetypeid: "fd48d060-6e99-e911-a81f-000d3a43de3c"
+	},
+	{
+		msauto_name: "Machinery",
+		msauto_devicetypeid: "511450b5-a2ba-e911-a826-000d3aba031d"
+	}
+	]
 }
 
