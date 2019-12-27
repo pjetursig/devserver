@@ -46,6 +46,63 @@
 		"msauto_name": "Machinery",
 		"msauto_devicetypeid": "511450b5-a2ba-e911-a826-000d3aba031d"
 	}
-	]
+    ],
+    "msauto_devicebrands":[
+        {
+            "msauto_name": "Tata",
+            "createdon": "2019-08-09T13:58:34Z",
+            "msauto_devicebrandid": "021c9048-4e99-e911-a81f-000d3a43de3c"
+        },
+        {
+            "msauto_name": "Audi",
+            "createdon": "2019-08-09T13:58:33Z",
+            "msauto_devicebrandid" : "0762eb2f-5a93-e911-a81b-000d3aba09bd"
+        },
+        {
+            "msauto_name": "BMW",
+            "createdon": "2019-08-09T13:58:34Z",
+            "msauto_devicebrandid" : "a2baad6a-5a93-e911-a81b-000d3aba09bd"   
+        },
+        {
+            "msauto_name": "Mercedes-Benz",
+            "createdon": "2019-08-09T13:58:33Z",
+            "msauto_devicebrandid" : "1268a870-5a93-e911-a81b-000d3aba09bd"   
+        },
+        {
+            "msauto_name": "KIA",
+            "createdon": "2019-08-09T13:58:34Z",
+            "msauto_devicebrandid" : "e296b876-5a93-e911-a81b-000d3aba09bd"
+        },
+        {
+            "msauto_name": "Hyundai",
+            "createdon": "2019-08-09T13:58:34Z",
+            "msauto_devicebrandid" : "6d30ca82-5a93-e911-a81b-000d3aba09bd"
+        }
+    ],
+    "msauto_deviceclasses":[
+        {
+            "msauto_deviceclassid": "37f940d6-94a4-e911-a81f-000d3a3a6da8",
+            "msauto_name": "A6",
+            "_msauto_devicetypeid_value": "60379614-df98-e911-a81f-000d3a43d329",
+            "_msauto_devicebrandid_value": "0762eb2f-5a93-e911-a81b-000d3aba09bd"
+        },
+        {
+            "msauto_deviceclassid": "d8bb7ac3-87a6-e911-a820-000d3a3a6da8",
+            "msauto_name": "A5",
+            "_msauto_devicetypeid_value": "60379614-df98-e911-a81f-000d3a43d329",
+            "_msauto_devicebrandid_value": "0762eb2f-5a93-e911-a81b-000d3aba09bd"
+        },
+        {
+            "msauto_deviceclassid": "48cd1588-5b99-e911-a81f-000d3a43de3c",
+            "msauto_name": "Nexon",
+            "_msauto_devicetypeid_value": "60379614-df98-e911-a81f-000d3a43d329",
+            "_msauto_devicebrandid_value": "021c9048-4e99-e911-a81f-000d3a43de3c"
+        },
+        {
+            "msauto_deviceclassid": "77f91d9b-5a93-e911-a81b-000d3aba09bd",
+            "msauto_name": "A3",
+            "_msauto_devicetypeid_value": "60379614-df98-e911-a81f-000d3a43d329",
+            "_msauto_devicebrandid_value": "0762eb2f-5a93-e911-a81b-000d3aba09bd"
+        }
+    ]
 }
-
